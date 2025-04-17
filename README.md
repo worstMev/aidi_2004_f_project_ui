@@ -8,6 +8,12 @@
     - Herify Rakotoarisoa Ramahandry - 100994569  
     - Lubna Mohammed Alfaz - 100945841  
     - Raghav Kaushik - 100950718
+## instruction for running locally : 
+    - clone the repository, 
+    - cd inside 
+    - install pnpm : npm install -g pnpm@latest-10
+    - execute : pnpm install
+    - run with pnpm run dev , it is now opened on port 3000.
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
